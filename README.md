@@ -5,7 +5,7 @@ input and output in Java with classes and extended classes.
 
 ###Instructions to run Orders.jar###
 
-1. Download the .jar file
+1. Download the .zip file
 2. Open a command prompt as Administrator
 3. cd into the saved directory 	
 	(ex. C:\Users\Tom\Desktop)
